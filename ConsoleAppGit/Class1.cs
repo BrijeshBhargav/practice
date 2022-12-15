@@ -20,5 +20,9 @@ namespace ConsoleAppGit
         {
             Console.WriteLine("hello");
         }
+        public static void test4()
+        {
+            Console.WriteLine("hello");
+        }
     }
 }
